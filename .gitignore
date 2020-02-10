@@ -1,0 +1,6 @@
+.cache/
+.idea/
+dist/
+*.iml
+# Project exclude paths
+/node_modules/
